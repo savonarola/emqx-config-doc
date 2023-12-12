@@ -1,0 +1,21 @@
+field1 = value
+
+field2 = 12.3
+
+# Comment
+
+mapfield {
+    key1 = value1
+    key2 = value2
+}
+
+arrayfield = [
+    "value1",
+    "value2",
+    {
+        key1 = "value1"
+        key2 = "value2"
+    }
+]
+
+nested.field = value

@@ -1,0 +1,14 @@
+{application, emqx_cd,
+ [{description, "Code samples related to EMQX configuration system"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.

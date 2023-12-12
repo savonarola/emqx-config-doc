@@ -1,0 +1,23 @@
+user {
+    id = "100"
+    email = "user@nohost"
+    address {
+        street = "street"
+        city = "city"
+        country = "country"
+    }
+}
+
+payments = [
+    {
+        amount = "1.0"
+        currency = "USD"
+    },
+    {
+        amount = 2.0
+        currency = "EUR"
+    }
+]
+
+
+
